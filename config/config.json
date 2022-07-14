@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5A98FEfA1Dff9B9121f1131F73Cb7FCE449906e5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5a98fefa1dff9b9121f1131f73cb7fce449906e5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Transdimensional Fox",
+  "SYMBOL": "TFNFT",
+  "MAX_SUPPLY": 7800,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/transdimensional-fox",
+  "SHOW_BACKGROUND": false
+}
